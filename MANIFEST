@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Lingua-Han-StrokeCount.t
+lib/Lingua/Han/StrokeCount.pm
+META.yml                                 Module meta-data (added by MakeMaker)
